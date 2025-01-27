@@ -77,7 +77,6 @@ int main() {
     cin >> a;
     clearConsole();
 
-
     cout << "**********************************************\n";
     cout << "a: " << a << "\n";
     cout << "Nenner b (z. B. m oder milli): ";
