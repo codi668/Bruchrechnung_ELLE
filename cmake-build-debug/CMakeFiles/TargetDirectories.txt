@@ -1,0 +1,3 @@
+C:/Users/t2022/CLionProjects/Bruchrechner/cmake-build-debug/CMakeFiles/Bruchrechner.dir
+C:/Users/t2022/CLionProjects/Bruchrechner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/t2022/CLionProjects/Bruchrechner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
